@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 print("Hello world")
-print("Hello Git")
+print("Hello 0SS Development")
